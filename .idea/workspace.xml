@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86322848-8e2f-404c-b583-3c3e91eb8646" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="report_sjx.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitTest/day2/Unittest/report_sjx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iweb_unittest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fz02/iweb_unittest/iweb_unittest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Day 1/lianxi/zhuce.py" />
+        <option value="$PROJECT_DIR$/Day 1/lianxi/lianxi_02.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/test02_id.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/test03_name.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/test04_class_name.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/test05_paltial_link.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/test05 link_text.py" />
+        <option value="C:/软件测试/Python/03-Python基础/第三天课堂代码/06-列表的操作.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/麻婆豆腐.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/烤地瓜.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/搬家具.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/练习doufu.py" />
+        <option value="$PROJECT_DIR$/Day 1/Lx/搬家具--练习.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test01_.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test03_keys.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test04_mouse01.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test05_window.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test05_window02.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test01_02.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test02_mouse.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test02_mouse01.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test02_mouse02.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test02_mouse03.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/test02_mouse04.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/homework _01.py" />
+        <option value="$PROJECT_DIR$/day 2/Lx/homework _02.py" />
+        <option value="$PROJECT_DIR$/day5/case/test_report.py" />
+        <option value="$PROJECT_DIR$/day3/Lx/test01_.py" />
+        <option value="$PROJECT_DIR$/kaoshi/kaoshi/kaoshi_2.1.py" />
+        <option value="$PROJECT_DIR$/kaoshi/kaoshi/kaoshi_2.2.py" />
+        <option value="$PROJECT_DIR$/kaoshi/kaoshi/test_2.2.py" />
+        <option value="$PROJECT_DIR$/kaoshi/kaoshi/test_2.3.py" />
+        <option value="$PROJECT_DIR$/kaoshi/ks/lx.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="577" />
+    <option name="y" value="64" />
+    <option name="width" value="1287" />
+    <option name="height" value="759" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebDriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriver" type="462c0819:PsiDirectoryNode" />
+              <item name="Fz02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriver" type="462c0819:PsiDirectoryNode" />
+              <item name="Fz02" type="462c0819:PsiDirectoryNode" />
+              <item name="iweb_unittest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\23746\PycharmProjects\WebDriver\day 2\Lx" />
+      <recent name="C:\Users\23746\PycharmProjects\WebDriver\Day 1\Lx" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for lx.Iwebshop_login">
+    <configuration name="Unittests for lx.Iwebshop_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaoshi/ks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDriver" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lx.Iwebshop_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for lx.Iwebshop_login.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaoshi/ks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDriver" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lx.Iwebshop_login.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in kaoshih_2.3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaoshi/ks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDriver" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/kaoshi/ks/kaoshih_2.3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in lx_test_anli--01.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5/lx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDriver" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/day5/lx/lx_test_anli--01.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="homework _01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day 2/Lx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDriver" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day 2/Lx/homework _01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="kaoshi_2.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaoshi/ks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDriver" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaoshi/ks/kaoshi_2.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in kaoshih_2.3.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in lx_test_anli--01.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.kaoshi_2.2" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for lx.Iwebshop_login.test_login" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for lx.Iwebshop_login" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for lx.Iwebshop_login" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for lx.Iwebshop_login.test_login" />
+        <item index="2" class="java.lang.String" itemvalue="Python.kaoshi_2.2" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in kaoshih_2.3.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in lx_test_anli--01.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86322848-8e2f-404c-b583-3c3e91eb8646" name="Default" comment="" />
+      <created>1526440216242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526440216242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_lx_Iwebshop_login - 2018.05.22 at 10h 12m 54s.xml">
+      <configuration name="Unittests for lx.Iwebshop_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_lx_Iwebshop_login_test_login - 2018.05.22 at 10h 08m 42s.xml">
+      <configuration name="Unittests for lx.Iwebshop_login.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_lx_Iwebshop_login_test_login - 2018.05.22 at 10h 10m 01s.xml">
+      <configuration name="Unittests for lx.Iwebshop_login.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_lx_Iwebshop_login_test_login - 2018.05.22 at 10h 11m 35s.xml">
+      <configuration name="Unittests for lx.Iwebshop_login.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_lx_Iwebshop_login_test_login - 2018.05.22 at 10h 12m 11s.xml">
+      <configuration name="Unittests for lx.Iwebshop_login.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_lx_Iwebshop_login_test_login - 2018.05.22 at 10h 12m 32s.xml">
+      <configuration name="Unittests for lx.Iwebshop_login.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_kaoshih_2_3_py - 2018.05.22 at 10h 06m 27s.xml">
+      <configuration name="Unittests in kaoshih_2.3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_kaoshih_2_3_py - 2018.05.22 at 10h 06m 53s.xml">
+      <configuration name="Unittests in kaoshih_2.3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_kaoshih_2_3_py - 2018.05.22 at 10h 07m 44s.xml">
+      <configuration name="Unittests in kaoshih_2.3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_2_3_py - 2018.05.22 at 10h 05m 01s.xml">
+      <configuration name="Unittests in test_2.3.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17274678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4012841" sideWeight="0.5027581" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2741228" sideWeight="0.4972419" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3964687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test01_id.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test01_id.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test01_id.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test04_class_name.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test05 link_text.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test03_name.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test02_id.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test01_id.py" />
+    <entry file="file://C:/软件测试/Python/03-Python基础/第三天课堂代码/07-for循环遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/Python/03-Python基础/第三天课堂代码/06-列表的操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/Python/13-Python基础/04-源代码/06-优化代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/Python/06-Python基础/04-源代码/02-拆包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/Python/06-Python基础/04-源代码/04-可变和不可变类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/Python/05-Python基础/04-源代码/11-函数的参数进阶.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/Python/09-Python基础/04-源代码/07-烤地瓜.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/麻婆豆腐.py" />
+    <entry file="file://C:/软件测试/Python/09-Python基础/04-源代码/08-搬家具.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/烤地瓜.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/练习doufu.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/搬家具--练习.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/搬家具.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1/Lx/test06_partial_link_text.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test04_yuansu_lixi.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test05_window01.py" />
+    <entry file="file://C:/软件测试/就业班/05 Web自动化测试/03 第三天/04_代码/test05_Bro02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/就业班/05 Web自动化测试/03 第三天/04_代码/test07_Element01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test05_window02.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test01_.py" />
+    <entry file="file://C:/软件测试/就业班/05 Web自动化测试/03 第三天/04_代码/test09_double.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/就业班/05 Web自动化测试/03 第三天/04_代码/test08_context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/软件测试/就业班/05 Web自动化测试/03 第三天/04_代码/test10_drag_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test02_mouse03.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test03_keys.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test02_mouse04.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test01_02.py" />
+    <entry file="file://C:/软件测试/就业班/05 Web自动化测试/03 第三天/04_代码/test12_send_keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/homework _01.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test02_mouse02.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/test02_mouse01.py" />
+    <entry file="file://$PROJECT_DIR$/day 2/Lx/homework _02.py" />
+    <entry file="file://$PROJECT_DIR$/day5/case/test_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/Lx/test01_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="27" column="65" lean-forward="true" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/Lx/test03_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/lx/lx_test_anli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/lx/lx_test_anli--01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaoshi/ks/kaoshih_2.3.py" />
+    <entry file="file://$PROJECT_DIR$/kaoshi/ks/lx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaoshi/ks/kaoshi_2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaoshi/ks/kaoshi_2.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTest/day2/Unittest/report_sjx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fz02/iweb_unittest/iweb_unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
